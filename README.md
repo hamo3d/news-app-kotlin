@@ -1,12 +1,4 @@
-
 # News App
-
-![App Banner]
-
-![Home Screen](screenshots/NewApp1.png)
-![Search Screen](screenshots/NewApp3.png)
-![Saved Screen](screenshots/NewApp2.png)
-![Article Details](screenshots/NewApp5.png)
 
 A modern Android News Application built with **Kotlin**, **MVVM**, **Paging 3**, and **Retrofit**.  
 This app fetches the latest news from a public API and provides an easy-to-use interface for browsing, searching, and saving articles.
